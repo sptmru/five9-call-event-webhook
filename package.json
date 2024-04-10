@@ -1,0 +1,15 @@
+{
+  "name": "five9-call-event-webhook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^4.26.2"
+  }
+}
